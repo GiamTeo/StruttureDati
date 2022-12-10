@@ -1,0 +1,11 @@
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\bin\Debug\EsSimulazioneVerficaDicembre.exe.config
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\bin\Debug\EsSimulazioneVerficaDicembre.exe
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\bin\Debug\EsSimulazioneVerficaDicembre.pdb
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.csproj.AssemblyReference.cache
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.csproj.SuggestedBindingRedirects.cache
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.Form1.resources
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.Properties.Resources.resources
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.csproj.GenerateResource.cache
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.csproj.CoreCompileInputs.cache
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.exe
+C:\Users\giamm\source\repos\EsSimulazioneVerficaDicembre\obj\Debug\EsSimulazioneVerficaDicembre.pdb
