@@ -123,8 +123,8 @@ namespace EsSimulazioneVerficaDicembre
             bool ret = false;
             if(top < arrpallet.Length)
             {
-                top++;
-                arrpallet[top] = pallet;
+                top++;//incremento top (indice)
+                arrpallet[top] = pallet; //aggiungo pallet all'array in posizione top
                 ret = true;
             }
             else
@@ -140,7 +140,7 @@ namespace EsSimulazioneVerficaDicembre
             if (top > -1)
             {
                 rempallet = arrpallet[top];
-                arrpallet[top] = null;
+                arrpallet[top] = null;//tolgo dall'array l'ultimo elemento inserito
                 top--;
             }
             return rempallet;
